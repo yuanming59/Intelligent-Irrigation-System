@@ -11,8 +11,10 @@ The system uses low-power LoPy devices to collect local data about the user's en
 
 Installing automated irrigation systems in farms is an effective way to reduce your water costs, prevent uneven watering and keep your lawn healthier. Additionally, installing an efficient irrigation system can also increase the value of your property and save you time.
 
+<img align="center" width="800" height="500" src="https://2.wlimg.com/product_images/bc-full/dir_152/4552028/smart-irrigation-fertigation-1503383077-3176067.jpg">
+
 ## 🎩 Various Parts of the system
- ###### 🧘 LoPy controller
- ###### ⚡️ LoPy sensor
- ###### 📝 LoPy actuator 
- ###### 🔐 Cloud server
+ ##### 🧘 LoPy controller
+ ##### ⚡️ LoPy sensor
+ ##### 📝 LoPy actuator 
+ ##### 🔐 Cloud server
