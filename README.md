@@ -5,8 +5,6 @@
 The aim of this project was to create an open source, automatic irrigation system, to give anyone the ability to automate irrigation using the magic of IoT and reconstruct the life of the farmers.
 The system uses low-power LoPy devices to collect local data about the user's environment (humidity, temperature, sunlight intensity), transmit that data to the cloud for processing, process the data with the computational power of a cloud-hosted solution (potentially incorporating historic data, weather forecasts, and presenting the data to the user in a web app /phone app format), and control any given irrigation valves automatically based on the need.
 
-<img align="center" width="800" height="500" src="http://www.dailycivil.com/wp-content/uploads/2018/02/drip-irrigation-system-layout-1.jpg">
-
 <img align="center" width="800" height="500" src="https://www.disruptordaily.com/wp-content/uploads/2018/01/Tevatronic-Smart-Irrigation-Guidance-For-More-Successful-Harvestings-805x527.jpg">
 
 ## 🙌🏻 Advantages Of Intelligent-Irrigation System
