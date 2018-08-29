@@ -7,6 +7,8 @@ The system uses low-power LoPy devices to collect local data about the user's en
 
 <img align="center" width="800" height="500" src="http://www.dailycivil.com/wp-content/uploads/2018/02/drip-irrigation-system-layout-1.jpg">
 
+<img align="center" width="800" height="500" src="https://www.disruptordaily.com/wp-content/uploads/2018/01/Tevatronic-Smart-Irrigation-Guidance-For-More-Successful-Harvestings-805x527.jpg">
+
 ## 🙌🏻 Advantages Of Intelligent-Irrigation System
 
 Installing automated irrigation systems in farms is an effective way to reduce your water costs, prevent uneven watering and keep your lawn healthier. Additionally, installing an efficient irrigation system can also increase the value of your property and save you time.
